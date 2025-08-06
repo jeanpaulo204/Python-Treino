@@ -1,6 +1,6 @@
 
 # str → texto (string)
-nome = 'Cesar'
+nome = 'Jean'
 
 
 print(f'Bem-Vindo, {nome}!')
