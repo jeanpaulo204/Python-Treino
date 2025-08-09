@@ -1,3 +1,7 @@
-nome = 'Jean'
-idade = '30'
-print (f'Me chamo {nome} e a minha {idade}')
+nome = 'Joao'
+carteira = True
+
+
+print(f"{nome} tem carteira de motorista ? ")
+print(f"Verificando ....")
+print("Sim" if carteira else "Nao")
